@@ -122,7 +122,7 @@ truths = ["What’s the last lie you told?",
 ,
 "Do you think any girl loves you?"
 ,
-"Why is melody chocolate melody?
+"Why is melody chocolate melody?"
 ,
 "If you could get a bf from this room assuming everyone's single, who would it be?"
 ,
