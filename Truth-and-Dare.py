@@ -126,7 +126,9 @@ truths = ["What’s the last lie you told?",
 ,
 "If you could get a bf from this room assuming everyone's single, who would it be?"
 ,
-"Who do you think hits on you the most in this room?"]
+"Who do you think hits on you the most in this room?"
+,
+"What is your love?"]
 
 
 
@@ -262,7 +264,9 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "Solve JEE Advance 2021 Physics first question?"
 ,
-"watch 3 eps of boku no pico with your crush"]
+"watch 3 eps of boku no pico with your crush"
+,
+"Go deep inside Mariana Trench"]
 
 
 
