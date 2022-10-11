@@ -262,7 +262,9 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "Solve JEE Advance 2021 Physics first question?"
 ,
-"watch 3 eps of boku no pico with your crush"]
+"watch 3 eps of boku no pico with your crush"
+,
+"mail your crush that u lost your phone"]
 
 
 
