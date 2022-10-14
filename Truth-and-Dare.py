@@ -266,7 +266,9 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "watch 3 eps of boku no pico with your crush"
 ,
-"mail your crush that u lost your phone"]
+"mail your crush that u lost your phone"
+,
+"jump off a roof"]
 
 
 
