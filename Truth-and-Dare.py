@@ -130,7 +130,9 @@ truths = ["What’s the last lie you told?",
 ,
 "Do you like electrical engineering?"
 ,
-"Which came first, chick or egg?"]
+"Which came first, chick or egg?"
+,
+"if someone comes out as gay, you won,t be surprised, who is that person"]
 
 
 
