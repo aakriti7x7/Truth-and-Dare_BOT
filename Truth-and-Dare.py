@@ -128,7 +128,9 @@ truths = ["What’s the last lie you told?",
 ,
 "Who do you think hits on you the most in this room?"
 ,
-"Do you like electrical engineering?" ]
+"Do you like electrical engineering?"
+,
+"Which came first, chick or egg?"]
 
 
 
