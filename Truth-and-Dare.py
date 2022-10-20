@@ -36,8 +36,10 @@ async def clean(ctx, num = 1):
   await ctx.channel.purge(limit = num+1)  
 
 
-truths = ["What’s the last lie you told?",
-
+truths = ["What’s the last lie you told?"
+,
+"tell me about your first kiss"
+,
 "Whose chats/calls do you ignore the most in this room?"
 ,
 "What’s your most bizarre nickname?"
