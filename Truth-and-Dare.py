@@ -276,6 +276,10 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "jump off a roof"
 ,
+"RickRoll your professors/teachers"
+,
+"Tell the ligma joke to your crush"
+,         
 "Dare u to talk to me for 3 hrs"]
 
 
