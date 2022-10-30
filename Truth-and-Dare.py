@@ -291,7 +291,9 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "Give an online assessment honestly"
 ,
-"Dance with no music for 1 minute."]
+"Dance with no music for 1 minute."
+,
+"Tell your crush that you like her ;)"]
 
 
 
