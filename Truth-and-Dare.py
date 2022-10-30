@@ -171,6 +171,8 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "Dial a random number and sing ‘Happy Birthday!’"
 ,
+"Dial a random number and pretend to be a boyfriend/girlfriend who has found out they have been cheated on"
+,
 "Talk like a robot for the next 15 minutes of the game."
 ,
 "Call up your friend and tell him/her how much you love his/her boyfriend/girlfriend."
