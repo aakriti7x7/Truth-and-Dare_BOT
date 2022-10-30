@@ -134,7 +134,10 @@ truths = ["What’s the last lie you told?"
 ,
 "Which came first, chick or egg?"
 ,
-"if someone comes out as gay, you won,t be surprised, who is that person"]
+"if someone comes out as gay, you won,t be surprised, who is that person"
+,
+"Something you're glad no one knows about you?"
+]
 
 
 
