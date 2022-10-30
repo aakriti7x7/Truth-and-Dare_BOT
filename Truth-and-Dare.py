@@ -280,7 +280,8 @@ dares = ["Call your crush or any random person you never talk and start a random
 ,
 "Tell the ligma joke to your crush"
 ,         
-"Dare u to talk to me for 3 hrs"]
+"Dare u to talk to me for 3 hrs"
+, "Dare u to qualify hactoberfest honestly"        ]
 
 
 
